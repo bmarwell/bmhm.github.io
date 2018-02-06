@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Repository site for webtrees and hibiscus</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Repository site for webtrees and hibiscus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 14:50:19 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Json LD</title>
+      <link>http://localhost:1313/projects/webtrees/json-ld/</link>
+      <pubDate>Mon, 05 Feb 2018 14:50:19 +0100</pubDate>
+      
+      <guid>http://localhost:1313/projects/webtrees/json-ld/</guid>
+      <description> JsonLD for Webtrees </description>
+    </item>
+    
+    <item>
+      <title>Missing Tombstones</title>
+      <link>http://localhost:1313/projects/webtrees/missing-tombstones/</link>
+      <pubDate>Mon, 05 Feb 2018 14:50:06 +0100</pubDate>
+      
+      <guid>http://localhost:1313/projects/webtrees/missing-tombstones/</guid>
+      <description> Missing Tombstones for Webtrees </description>
+    </item>
+    
+    <item>
+      <title>Repo: Webtrees</title>
+      <link>http://localhost:1313/projects/webtrees/</link>
+      <pubDate>Mon, 05 Feb 2018 14:49:57 +0100</pubDate>
+      
+      <guid>http://localhost:1313/projects/webtrees/</guid>
+      <description> Choose your poison  Missing Tombstones JSON LD  </description>
+    </item>
+    
+    <item>
+      <title>Repo: Hibiscus</title>
+      <link>http://localhost:1313/projects/hibiscus/</link>
+      <pubDate>Sat, 23 Apr 2016 15:21:22 +0200</pubDate>
+      
+      <guid>http://localhost:1313/projects/hibiscus/</guid>
+      <description> Hibiscus Repositories How to set up https://bmhm.github.io/repositories/hibiscus Plugins  hibiscus.ffb.depot (Github) Plugin, which uses the ffb.depot.client library to implement FFB Balance. See below for library details.  Libraries  ffb.depot.client (Github) Jax-RS 2.0 Library, which can authenticate a user and parses data from the fidelity.de page to access ones funds depot. slf4j-jameica (Github) slf4j-bridge. If installed, java libraries which depend on slf4j will log to jameicas logging facility (org.willuhn.logging.Logger).  </description>
+    </item>
+    
+  </channel>
+</rss>

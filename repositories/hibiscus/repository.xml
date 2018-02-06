@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://www.willuhn.de/schema/jameica-repository-1.0.xsd"
+  name="Banking-Funktionen und Libraries für Hibiscus">
+ 
+   <plugins name="Hibiscus" >
+     <plugin url="https://www.willuhn.de/products/jameica/updates/jameica.xmlrpc" />
+   </plugins>
+
+   <plugins name="Hibiscus-Libraries" >
+     <plugin url="https://bmhm.github.io/repositories/hibiscus/slf4j-jameica" />
+   </plugins>
+ 
+</repository>
