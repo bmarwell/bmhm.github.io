@@ -2,49 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Repository site for webtrees and hibiscus</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://bmhm.github.io/projects/</link>
     <description>Recent content in Projects on Repository site for webtrees and hibiscus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Feb 2018 14:50:19 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bmhm.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Json LD</title>
-      <link>http://localhost:1313/projects/webtrees/json-ld/</link>
+      <link>https://bmhm.github.io/projects/webtrees/json-ld/</link>
       <pubDate>Mon, 05 Feb 2018 14:50:19 +0100</pubDate>
       
-      <guid>http://localhost:1313/projects/webtrees/json-ld/</guid>
-      <description> JsonLD for Webtrees </description>
+      <guid>https://bmhm.github.io/projects/webtrees/json-ld/</guid>
+      <description>About Star
+Installation Further Information  On Github: https://github.com/bmhm/wetrees-jsonld On my blog (de): https://blog.bmarwell.de/webtrees-plugin-json-ld/ On my blog (en): https://blog.bmarwell.de/en/wp-jsonld-wordpress-plugin-for-schema-org-linked-data/ Webtrees Forums: No discussion yet.</description>
     </item>
     
     <item>
       <title>Missing Tombstones</title>
-      <link>http://localhost:1313/projects/webtrees/missing-tombstones/</link>
+      <link>https://bmhm.github.io/projects/webtrees/missing-tombstones/</link>
       <pubDate>Mon, 05 Feb 2018 14:50:06 +0100</pubDate>
       
-      <guid>http://localhost:1313/projects/webtrees/missing-tombstones/</guid>
-      <description> Missing Tombstones for Webtrees </description>
+      <guid>https://bmhm.github.io/projects/webtrees/missing-tombstones/</guid>
+      <description>About Star
+This plugin will allow you to view persons which deceased in the past 30 years not having an image of the type tombstone/headstone.
+Installation Further Reading  Github: bmhm/webtrees-missingtombstones. On my homepage (de): Webtrees-Modul: Fehlende Grabsteine. On my homepage (en): Webtrees-Module: Missing Tombstones. Webtrees Forums: Webtrees: Missing Tombstones.</description>
     </item>
     
     <item>
       <title>Repo: Webtrees</title>
-      <link>http://localhost:1313/projects/webtrees/</link>
+      <link>https://bmhm.github.io/projects/webtrees/</link>
       <pubDate>Mon, 05 Feb 2018 14:49:57 +0100</pubDate>
       
-      <guid>http://localhost:1313/projects/webtrees/</guid>
-      <description> Choose your poison  Missing Tombstones JSON LD  </description>
+      <guid>https://bmhm.github.io/projects/webtrees/</guid>
+      <description> Plugin &amp;ldquo;Missing Tombstones  Missing Tombstones  Plugin &amp;ldquo;JSON LD&amp;rdquo;  JSON LD  </description>
     </item>
     
     <item>
       <title>Repo: Hibiscus</title>
-      <link>http://localhost:1313/projects/hibiscus/</link>
+      <link>https://bmhm.github.io/projects/hibiscus/</link>
       <pubDate>Sat, 23 Apr 2016 15:21:22 +0200</pubDate>
       
-      <guid>http://localhost:1313/projects/hibiscus/</guid>
-      <description> Hibiscus Repositories How to set up https://bmhm.github.io/repositories/hibiscus Plugins  hibiscus.ffb.depot (Github) Plugin, which uses the ffb.depot.client library to implement FFB Balance. See below for library details.  Libraries  ffb.depot.client (Github) Jax-RS 2.0 Library, which can authenticate a user and parses data from the fidelity.de page to access ones funds depot. slf4j-jameica (Github) slf4j-bridge. If installed, java libraries which depend on slf4j will log to jameicas logging facility (org.willuhn.logging.Logger).  </description>
+      <guid>https://bmhm.github.io/projects/hibiscus/</guid>
+      <description>Hibiscus Repositories How to set up  Go to the Menu File -&amp;gt; Settings. Chose the Tab Plugins. Add the following site.  https://bmhm.github.io/repositories/hibiscus Plugins  hibiscus.ffb.depot (Github)
+Plugin, which uses the ffb.depot.client library to implement FFB Balance. See below for library details.  Libraries  ffb.depot.client (Github)
+Jax-RS 2.0 Library, which can authenticate a user and parses data from the fidelity.de page to access ones funds depot. slf4j-jameica (Github)</description>
+    </item>
+    
+    <item>
+      <title>Repo: Maven</title>
+      <link>https://bmhm.github.io/projects/maven/</link>
+      <pubDate>Sat, 23 Apr 2016 15:21:22 +0200</pubDate>
+      
+      <guid>https://bmhm.github.io/projects/maven/</guid>
+      <description> Maven Repositories How to set up Not active yet!
+https://bmhm.github.io/repositories/maven2 Contents  None yet  </description>
     </item>
     
   </channel>

@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/projects/webtrees/json-ld/</loc>
+    <loc>https://bmhm.github.io/projects/webtrees/json-ld/</loc>
     <lastmod>2018-02-05T14:50:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/webtrees/missing-tombstones/</loc>
+    <loc>https://bmhm.github.io/projects/webtrees/missing-tombstones/</loc>
     <lastmod>2018-02-05T14:50:06+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/webtrees/</loc>
+    <loc>https://bmhm.github.io/projects/webtrees/</loc>
     <lastmod>2018-02-05T14:49:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/repositories/</loc>
+    <loc>https://bmhm.github.io/repositories/</loc>
     <lastmod>2018-02-05T14:23:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bmhm.github.io/</loc>
     <lastmod>2016-04-23T15:21:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/hibiscus/</loc>
+    <loc>https://bmhm.github.io/projects/hibiscus/</loc>
     <lastmod>2016-04-23T15:21:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/maven/</loc>
+    <loc>https://bmhm.github.io/projects/maven/</loc>
     <lastmod>2016-04-23T15:21:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bmhm.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://bmhm.github.io/projects/</loc>
     <lastmod>2018-02-05T14:50:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bmhm.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
